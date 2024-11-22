@@ -1,0 +1,67 @@
+body{
+    background-image: url(2127810-3840x2160-desktop-4k-internet-wallpaper-photo.jpg);
+    background-size: cover;
+}
+
+.nadpis{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.nadpis1{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-style: normal;
+}
+
+.nadpis2{
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
+
+.list{
+    color: black;
+    text-align: left;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-type: square;
+}
+
+.list1{
+    color: black;
+    text-align: left;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-type: circle;
+}
+
+.list2{
+    color: black;
+    text-align: left;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-image: url(kitten.jpg) ;
+    list-style-position: inside;
+}
+
+
+.uspr{
+    color: black;
+    list-style-type: upper-roman;
+    font-size: xx-large;
+}
+
+.uspr1{
+    color: red;
+    list-style-type: upper-roman;
+    font-size: xx-large;
+}
+
+.uspr2{
+    color: blueviolet;
+    list-style-type: upper-roman;
+    font-size: xx-large;
+}
